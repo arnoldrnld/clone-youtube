@@ -1,17 +1,15 @@
-# Youtube clone ![YouTube Logo](https://twenty-icons.com/youtube.com/32)
+# Youtube clone
 
 🚧 This project is currently in development.
 
-A frontend clone of the old YouTube UI built using HTML and CSS.
-
-## 🔗 Live Demo
+A frontend clone of the classic YouTube UI built using HTML and CSS.  
 [youtube-clone.vercel.app](https://youtube-clone.vercel.app)
 
-## 🚀 Features (so far)
-- Search bar
-- Two video thumbnails
+### 🚀 Features (so far)
+- search bar
+- video preview
 
-## 🛠️ Planned Features
-- Sidebar
-- Responsive design
-- Video player page
+### 🧠 Things Learnt
+- html-css
+- use of div
+- styling
