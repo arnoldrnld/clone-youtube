@@ -1,5 +1,5 @@
 # Youtube clone 
-![YouTube Logo](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg)
+![YouTube Logo](https://twenty-icons.com/github.com/128)
 
 🚧 This project is currently in development.
 
