@@ -1,5 +1,4 @@
-# Youtube clone 
-![YouTube Logo](https://twenty-icons.com/youtube.com/32)
+# Youtube clone ![YouTube Logo](https://twenty-icons.com/youtube.com/32)
 
 🚧 This project is currently in development.
 
