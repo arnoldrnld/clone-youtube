@@ -11,7 +11,6 @@ A frontend clone of the classic YouTube UI built using HTML and CSS.
 
 ### 🧠 Things Learnt
 - html-css
-- use of div
-- styling
 - deployment using vercel
 - use of git and github
+- use of div

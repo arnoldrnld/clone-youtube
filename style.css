@@ -1,3 +1,9 @@
+p {
+  font-family: Roboto, Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .search-bar {
   display: block;
 }
@@ -6,9 +12,8 @@
   width: 300px;
   display: block;
 }
-
-.video-title {
-  width: 300px;
+.thumbnail-row {
+  margin-bottom: 12px;
 }
 
 .video-preview {
@@ -16,4 +21,37 @@
   display: inline-block;
   vertical-align: top;
   margin-right: 15px;
+}
+
+.video-title {
+  margin-top: 0px;
+  margin-bottom: 15px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.video-author, .video-stats { 
+  font-size: 12px;
+  color: rgb(68, 67, 67);
+}
+
+.video-author {
+  margin-bottom: 4px;
+}
+
+.profile-picture-coloumn {
+  display: inline-block;
+  width: 50px;
+  vertical-align: top;
+}
+
+.video-info {
+  display: inline-block;
+  width: 200px;
+}
+
+.profile-picture {
+  width: 40px;
+  border-radius: 50px;
 }
