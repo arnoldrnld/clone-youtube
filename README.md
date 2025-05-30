@@ -7,10 +7,11 @@ A frontend clone of the classic YouTube UI built using HTML and CSS.
 
 ### 🚀 Features (so far)
 - search bar
-- video preview
+- video previews
 
 ### 🧠 Things Learnt
 - html-css
 - deployment using vercel
 - use of git and github
 - use of div
+- CSS grid layout
