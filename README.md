@@ -15,4 +15,3 @@ A frontend clone of the classic YouTube UI built using HTML and CSS.
 - use of git and github
 - use of div
 - CSS grid layout
-- hello guys
