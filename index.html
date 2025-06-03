@@ -10,11 +10,36 @@
       href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="styles/general.css" />
+    <link rel="stylesheet" href="styles/video.css" />
+    <link rel="stylesheet" href="styles/header.css" />
   </head>
 
   <body>
-    <input class="search-bar" type="text" placeholder="Search" />
+    <header>
+      <div class="left-section">
+        <img
+          class="hamburger-menu"
+          src="assets/icons/hamburger-menu.svg"
+          alt="hamburger-menu"
+        />
+        <img
+          class="youtube-logo"
+          src="assets/icons/youtube-logo.svg"
+          alt="youtube-logo"
+        />
+      </div>
+      <div class="middle-section">
+        <input class="search-bar" type="text" placeholder="Search" />
+        <button class="search-button">
+          <img class="search-icon" src="assets/icons/search.svg" alt="search" />
+        </button>
+        <button class="voice-search-button">
+          <img class="voice-search-icon" src="assets/icons/voice-search-icon.svg" alt="voice-search-icon">
+        </button>
+      </div>
+      <div class="right-section">right-section</div>
+    </header>
 
     <div class="video-grid">
       <div class="video-preview">
