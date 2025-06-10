@@ -9,6 +9,7 @@ header {
   top: 0;
   left: 0;
   right: 0;
+  z-index: 100;
 
   background-color: white;
   border-bottom: solid 1px rgb(202, 202, 202)
@@ -97,8 +98,25 @@ header {
   height: 24px;
 }
 
+.notifications-icon-container {
+  position: relative;
+}
+
 .notifications-icon {
   height: 24px;
+}
+
+.notifications-count {
+  position: absolute;
+  top: -2px;
+  right: 0px;
+
+  background-color: rgb(205, 0, 0);
+  color: white;
+  font-family: roboto, arial;
+  font-size: 11px;
+  padding: 2px 5px;
+  border-radius: 10px;
 }
 
 .current-user-picture {
