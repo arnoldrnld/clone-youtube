@@ -16,3 +16,4 @@ A frontend clone of the classic YouTube UI built using HTML and CSS.
 - use of div
 - CSS grid layout
 - flexbox
+- CSS positions
